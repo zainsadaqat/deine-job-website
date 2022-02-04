@@ -17,6 +17,14 @@
 - VueJS, NuxtJS
 - TailwindCSS
 
+## Project Includes
+
+- Mobile-First design of a Landing Page
+- Navbar
+- Hero Section
+- Single Tab Section
+- Footer
+
 ## Missing Sections
 
 - Tabs Section
