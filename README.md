@@ -23,7 +23,7 @@
 
 ## Further Improvements
 
-> As I'm not a VueJS developer that's why project code isn't DRY and not created using VueJS Best Practices.
+> As I'm not a VueJS developer that's why project code isn't DRY and didn't follow VueJS Best Practices.
 
 - DRY Code
 - VueJS Best Practices
