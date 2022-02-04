@@ -12,6 +12,11 @@
 
 `npm run dev`
 
+## Project Screenshot
+
+![project-screenshot](https://user-images.githubusercontent.com/83048208/152533089-e9d33e58-6d99-4fb4-9039-2a9aaf67c9e4.png)
+
+
 ## Tech stack used in this project
 
 - VueJS, NuxtJS
